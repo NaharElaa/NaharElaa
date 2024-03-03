@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nahar Ela, currently pursuing M.S in Data Science for Business Strategies in Universita Della Calabria, Italy.</h1>
-<h3 align="center">An enthusiast of Data Science from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Nahar Ela </h1>
+<h3 align="center">An enthusiast of Data Science from Bangladesh, currently pursuing M.S in Data Science for Business Strategies in Universita Della Calabria, Italy.</h3>
 
 - 📫 How to reach me **naharela9412@gmail.com**
 
